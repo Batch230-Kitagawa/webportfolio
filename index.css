@@ -1,13 +1,11 @@
 
-body {
+body{
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
   color: #fff;
-  position: relative;
-  background: transparent;
-  background: #040404 url("../C1/images/bg.jpg")top right no-repeat;
+  position: fixed;
+  background: #040404 url("../C1/images/bg.jpg") top right no-repeat;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 
@@ -155,3 +153,5 @@ a:hover {
   font-size: 14px;
   margin: 0 0 0 68px;
 }
+
+
