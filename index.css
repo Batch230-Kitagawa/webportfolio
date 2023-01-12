@@ -32,7 +32,6 @@ header {
 	width: 100vw;
 	height: 100vh;
 	background-image: url('../C1/images/bg1.jpg');
-	background-position: bottom;
 	background-size: cover;
 	display: flex;
 	align-items: center;
@@ -139,10 +138,11 @@ header {
 }
 
 .project {
-	margin-top: 10rem;
-	width: 85%;
+	margin-top: 5rem;
+	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
+	
 }
 
 .programming {
